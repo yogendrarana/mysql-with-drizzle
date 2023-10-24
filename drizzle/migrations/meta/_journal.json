@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1698113012479,
+      "tag": "0000_bouncy_mimic",
+      "breakpoints": true
+    }
+  ]
+}
